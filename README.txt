@@ -1,6 +1,6 @@
 Some changes need to be made to the web server configuration (in this case, Apache) in order to run the python scripts.
 
-1. Install mod python
+1. hi serc
 
         apt-get install libapache2-mod-python
 
@@ -13,7 +13,7 @@ Some changes need to be made to the web server configuration (in this case, Apac
         </Directory>
 
 
-3. restart Apache server
+3. restart Apache server is
 
         /etc/init.d/apache2 restart
 
